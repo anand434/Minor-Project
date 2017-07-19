@@ -9,4 +9,4 @@ Installation :
 3. run the src file 
 	linux / mac : python3 src.py
 	windows : python src.py
-4. Or simply open the  " .ipynb"  in juypter notebook
+4. Or simply open the jupyter notebook in the directory.

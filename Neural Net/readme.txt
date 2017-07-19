@@ -7,7 +7,7 @@ Installation :
 2.run the src file 
 	linux / mac : python3 src.py
 	windows : python src.py
-3. Or simply open the  " .ipynb"  in juypter notebook
+3. Or simply open the  jupyter notebook in the directory by typing "jupyter notebook" in terminal.
 
 
 // Output 
