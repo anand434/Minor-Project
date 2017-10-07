@@ -6,7 +6,7 @@ Dependencies :
 
 
 Installation : 
-1.pip install tetxtblob
+1.pip install textblob
 2.pip install tweepy
 3.run the src file 
 	linux / mac : python3 src.py
