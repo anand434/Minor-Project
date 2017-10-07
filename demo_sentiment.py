@@ -3,6 +3,11 @@ import sys
 from textblob import TextBlob
 from textblob.classifiers import NaiveBayesClassifier
 
+'''
+author : Abhijeet Singh
+date : 06/08/2017 
+'''
+
 filename = "american.csv"
 
 fields = []
@@ -19,9 +24,9 @@ with open(filename, 'r') as csvfile:
 for row in rows:
     for col in row:
         print(row)
-        print ("")
+        print ("\n")
         # analysing tweets by tokenizing them
         analysis = TextBlob(col)
         print("\t",analysis.sentiment)
-        print("")
+        print("\n")
         
