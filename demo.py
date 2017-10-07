@@ -1,5 +1,7 @@
 import csv
 
+# Program to read csv file data
+
 filename = "american.csv"
 
 fields = []
