@@ -3,11 +3,6 @@ import sys
 from textblob import TextBlob
 from textblob.classifiers import NaiveBayesClassifier
 
-'''
-author : Abhijeet Singh
-date : 06/08/2017 
-'''
-
 filename = "american.csv"
 
 fields = []
