@@ -2,6 +2,7 @@ Dependencies :
 1. Python 3.5
 2. Matplotlib
 3. Pandas
+4. Scikit Learn 
 
 
 Installation : 
